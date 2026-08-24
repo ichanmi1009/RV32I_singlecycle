@@ -1,0 +1,41 @@
+# macOS metadata
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon?
+._*
+.Spotlight-V100
+.Trashes
+
+# Windows metadata
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Editor files
+*~
+*.swp
+*.swo
+
+# Vivado generated files
+.Xil/
+.vivado/
+*.cache/
+*.gen/
+*.hw/
+*.ip_user_files/
+*.runs/
+*.sim/
+xsim.dir/
+
+# Vivado and XSIM logs
+vivado*.jou
+vivado*.log
+vivado*.pb
+vivado*.str
+xvlog*.log
+xelab*.log
+xsim*.log
+webtalk*.jou
+webtalk*.log
